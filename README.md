@@ -1,3 +1,3 @@
 Matlab implementation of the patch learning algorithm in the following paper for ensemble learning:
 
-Dongrui Wu and Jerry M. Mendel, "Patch Learning," IEEE Trans. on Fuzzy Systems, 2020, accepted.
+D. Wu* and J.M. Mendel, "Patch Learning," IEEE Trans. on Fuzzy Systems, 28(9):1996-2008, 2020.
